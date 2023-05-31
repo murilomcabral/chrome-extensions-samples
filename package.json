@@ -36,5 +36,8 @@
     "**/*.{md,html,json}": [
       "npx prettier --write"
     ]
+  },
+  "dependencies": {
+    "chrome-types": "^0.1.199"
   }
 }
